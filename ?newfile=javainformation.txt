@@ -1,0 +1,36 @@
+Exercise 1 
+Describe object oriented programming (OOP)? 
+In terms of programming, objects are considered to contain data and code. Several objects can be created and interact with one another.
+
+                              
+What is inheritance? 
+In java, inheritance occurs when a (child) class has been created based upon a (parent) class.
+the  child class inherits methods/ fields that are defined by the parent class, you are also able to add more methods to the child class.
+
+What is multiple inheritance? 
+A child class can inherit from more than one parent class which is organised in a lattice. 
+
+                                                     
+What is Encapsulation? 
+Encapsulation is the ability to make fields within a class either private or open to public access. Therefore encapsulation is the ability to hide fields from interference. 
+Additionally, the encapsulation mechanism is used to combine both variables and methods together to produce a single unit. 
+                      
+                                           
+What is Abstraction? 
+Abstraction is used to only shows the essential features of the object. At a design level abstraction is used to show what
+the object does rather than how it works. 
+                      
+                      EXAMPLE
+An example of Abstraction- When you are using a calculator you receieve the answer, but you dont recieve the calculation that gets you to the answer.                   
+                                        
+What is polymorphism? 
+In java, polymorphism allows for us to process different objects of various classes and types this is done using a single uniform interface. 
+there are two forms of polymorphism which are static binding and dynamic binding. 
+
+      Static binding- is the binding of static, private and final methods which is done during compile time. 
+      
+      Dynamic binding- is a process which implements a polymorphic method at run time. 
+
+                      EXAMPLE 
+ An example of polymorphism- two idential twins may look the same but they express different characterstics.             
+           
